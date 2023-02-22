@@ -1,4 +1,4 @@
-# securitytrails_api
+# securitytrails_enum
 
 Script that enumerates subdomains via the SecurityTrails API.
 
